@@ -1,9 +1,9 @@
 {
   "routes": {
-    "/infinitysol": {},
-    "/infinitysol/about-us": {},
-    "/infinitysol/contact-us": {},
-    "/infinitysol/our-vision": {},
-    "/infinitysol/services": {}
+    "/": {},
+    "/about-us": {},
+    "/contact-us": {},
+    "/our-vision": {},
+    "/services": {}
   }
 }

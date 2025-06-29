@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/infinitysol',
+  basePath: '/',
   supportedLocales: {
   "en-US": ""
 },
